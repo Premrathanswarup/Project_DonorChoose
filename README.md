@@ -4,8 +4,8 @@ This is platform dedicated to funding classroom projects, faces significant chal
 
 we have two data sets.
 
-train_data.csv
-resources.csv
+1.train_data.csv
+2.resources.csv
 
 https://drive.google.com/drive/folders/1s2smIE4rauueLnfGDveHEiF84Pr8CVFv?usp=drive_link 
 
